@@ -4,11 +4,31 @@
 }
 body{
     background-color: grey;
+    color: white;
 }
 .cabecalho{
     background-color: black;
     text-align: center;
 }
 a:hover{
+    color: white;
+}
+.links{
+    justify-content: space-between;  
+}
+
+img{
+    width: 200px;
+}
+p{
+    color: black;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+
+}
+.paragrafo{
     color: white;
 }
